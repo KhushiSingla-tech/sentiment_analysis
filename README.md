@@ -3,3 +3,4 @@
 - NLP algorithm implemented step by step.
 - Emotion analysis graph is generated.
 - Positive and negative vibes are fetched from particular sentence or paragraph.
+- Gists are used to store stop words and emotions data set.
